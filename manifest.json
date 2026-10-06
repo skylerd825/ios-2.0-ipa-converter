@@ -1,0 +1,8 @@
+{
+  "short_name": "IPAConverter",
+  "name": "iOS 2.0 IPA Converter & Downloader",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#007AFF",
+  "background_color": "#ffffff"
+}
