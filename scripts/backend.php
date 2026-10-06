@@ -1,0 +1,1 @@
+<?php echo 'iOS 2.0 Local Script Handler'; ?>
